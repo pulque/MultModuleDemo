@@ -10,6 +10,9 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app_accounting" />
             <option value="$PROJECT_DIR$/app_boss" />
+            <option value="$PROJECT_DIR$/app_buyer" />
+            <option value="$PROJECT_DIR$/app_shop_assistant" />
+            <option value="$PROJECT_DIR$/app_warehouse" />
             <option value="$PROJECT_DIR$/common" />
             <option value="$PROJECT_DIR$/common_announcement" />
             <option value="$PROJECT_DIR$/common_login" />

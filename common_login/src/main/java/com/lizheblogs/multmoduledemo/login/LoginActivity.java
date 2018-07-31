@@ -160,10 +160,6 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
                 Intent intent = new Intent(this, entry.getValue());
                 startActivity(intent);
                 return;
-            }else if (entry.getKey().contains("function_")) {
-                Intent intent = new Intent(this, entry.getValue());
-                startActivity(intent);
-                return;
             }
         }
 

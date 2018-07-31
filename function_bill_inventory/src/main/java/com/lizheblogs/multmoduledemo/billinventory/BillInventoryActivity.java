@@ -1,6 +1,5 @@
 package com.lizheblogs.multmoduledemo.billinventory;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.lizheblogs.common.base.activity.BaseActivity;
