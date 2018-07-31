@@ -8,7 +8,27 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app_accounting" />
             <option value="$PROJECT_DIR$/app_boss" />
+            <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/common_announcement" />
+            <option value="$PROJECT_DIR$/common_login" />
+            <option value="$PROJECT_DIR$/common_select" />
+            <option value="$PROJECT_DIR$/common_settings" />
+            <option value="$PROJECT_DIR$/function_accounts" />
+            <option value="$PROJECT_DIR$/function_bill_inventory" />
+            <option value="$PROJECT_DIR$/function_bill_order_purchase" />
+            <option value="$PROJECT_DIR$/function_bill_order_sale" />
+            <option value="$PROJECT_DIR$/function_bill_purchase" />
+            <option value="$PROJECT_DIR$/function_bill_sale" />
+            <option value="$PROJECT_DIR$/function_cash_bank" />
+            <option value="$PROJECT_DIR$/function_clients" />
+            <option value="$PROJECT_DIR$/function_inventory_status" />
+            <option value="$PROJECT_DIR$/function_products" />
+            <option value="$PROJECT_DIR$/function_receivepay" />
+            <option value="$PROJECT_DIR$/function_retail_status" />
+            <option value="$PROJECT_DIR$/function_sales_status" />
+            <option value="$PROJECT_DIR$/function_staff" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
