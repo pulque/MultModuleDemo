@@ -28,4 +28,4 @@
 以下是项目代码的截图：
 ![代码结构图](https://github.com/pulque/MultModuleDemo/tree/master/images/project_structure.png)  
 以下是编译安装后APP的截图：
-![手机APP展示图](https://github.com/pulque/MultModuleDemo/tree/master/images/apps.png)  
+![手机APP展示图](https://github.com/pulque/MultModuleDemo/blob/master/images/apps.png?raw=true)  
