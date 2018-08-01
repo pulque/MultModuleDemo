@@ -22,10 +22,10 @@
 而APP的Module只是集成各个功能模块，从而形成可编译的应用软件。
 ###### 项目举例说明：
 以通用的进销存软件为例，进行详细说明。
-以下是功能设计图：
-![功能设计图](https://github.com/pulque/MultModuleDemo/tree/master/images/functions.png)  
+以下是功能设计图：  
+![功能设计图](https://github.com/pulque/MultModuleDemo/blob/master/images/functions.png?raw=true)  
 从上图可以看出，不同的功能模块通过组合，可以形成不同的APP。  
-以下是项目代码的截图：
-![代码结构图](https://github.com/pulque/MultModuleDemo/tree/master/images/project_structure.png)  
-以下是编译安装后APP的截图：
+以下是项目代码的截图：  
+![代码结构图](https://github.com/pulque/MultModuleDemo/blob/master/images/project_structure.png?raw=true)  
+以下是编译安装后APP的截图：  
 ![手机APP展示图](https://github.com/pulque/MultModuleDemo/blob/master/images/apps.png?raw=true)  
