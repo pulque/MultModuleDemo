@@ -6,7 +6,7 @@
 > #### 设计理念
 > #### 应用环境
 > #### 原理
-> #### 优点
+> #### 解决的问题
 > #### 存在的疑问
 ## 正文
 ### 1. 设计理念
@@ -23,5 +23,9 @@
 ###### 项目举例说明：
 以通用的进销存软件为例，进行详细说明。
 以下是功能设计图：
-![功能设计图](https://github.com/younghz/Markdown/raw/master/resource/Aaron_Swartz.jpg)  
-
+![功能设计图](https://github.com/pulque/MultModuleDemo/tree/master/images/functions.png)  
+从上图可以看出，不同的功能模块通过组合，可以形成不同的APP。  
+以下是项目代码的截图：
+![代码结构图](https://github.com/pulque/MultModuleDemo/tree/master/images/project_structure.png)  
+以下是编译安装后APP的截图：
+![手机APP展示图](https://github.com/pulque/MultModuleDemo/tree/master/images/apps.png)  
