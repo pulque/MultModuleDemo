@@ -41,6 +41,8 @@
 ![代码结构图](https://github.com/pulque/MultModuleDemo/blob/master/images/project_structure.png?raw=true)  
 以下是编译安装后APP的截图：  
 ![手机APP展示图](https://github.com/pulque/MultModuleDemo/blob/master/images/apps.png?raw=true)  
+这样新开发APP就比较简单了，只要添加依赖，就可以显示不同的功能。  
+当然权限还是需要标识来控制。
 ### 5. 需要注意
 > + 各个Module中的包名不能相同。  
 > + XML资源名字不能相同。  
